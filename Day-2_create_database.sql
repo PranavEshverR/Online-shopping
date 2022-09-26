@@ -10,4 +10,8 @@ primary key (emp_id)
 );
 show tables;
 # Created database and a table.
-#populate the records
+branch-1
+#populate the record
+#populate
+use sql_batch;
+main
