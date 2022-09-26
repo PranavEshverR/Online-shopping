@@ -10,3 +10,4 @@ primary key (emp_id)
 );
 show tables;
 # Created database and a table.
+#populate the records
