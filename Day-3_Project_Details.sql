@@ -46,7 +46,7 @@ insert into Project(Proj_ID,Proj_Name, Duration_years, Location) values(12,'Swig
 (20,'Novi Digital','5','London');
 select * from Project;
 
-​
+​select * from employees;
 ​
 ​
 ​
