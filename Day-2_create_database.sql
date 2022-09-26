@@ -11,3 +11,4 @@ primary key (emp_id)
 show tables;
 # Created database and a table.
 #populate
+use sql_batch;
