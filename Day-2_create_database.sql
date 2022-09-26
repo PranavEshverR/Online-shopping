@@ -9,4 +9,4 @@ age int not null,
 primary key (emp_id)
 );
 show tables;
- 
+# Created database and a table.
